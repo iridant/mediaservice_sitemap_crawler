@@ -1,5 +1,5 @@
 # arc018_sitemap_crawler
-Crawls the sitemap of ARC018 movie service, collecting and saving the name and URL of each movie as JSON.
+Crawls the sitemap of ARC018, 9anime or similar media service, collecting and saving the name and URL of each piece of media as JSON.
 
 # TODO:
 - Add better error handling to axois requests
